@@ -33,7 +33,11 @@ Reddit is the only place where people accidentally tell the truth.
 Candour makes that truth searchable.
 
 ---
+## Frontend Demo
 
+https://github.com/user-attachments/assets/74bf806a-b37a-4a01-9dff-9f7172ad90d3
+
+---
 ## Tech (MVP Stack)
 
 - Frontend: React Vite, Tailwind, Framer motion
